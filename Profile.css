@@ -1,0 +1,67 @@
+body{
+			background-image: url(https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg?auto=compress&cs=tinysrgb&w=600);
+			background-repeat: no-repeat;
+			background-size: cover;
+			height: 100%;
+			width: 100%;
+		}
+
+		#home{
+			background-image: url(https://images.pexels.com/photos/743986/pexels-photo-743986.jpeg?auto=compress&cs=tinysrgb&w=600);
+			background-repeat: no-repeat;
+			background-size: cover;
+			height: 100%;
+			width: 100%;
+			padding-top: 18%;
+			padding-bottom: 20%;
+			
+		}
+		#about{
+			background-image: url(https://w0.peakpx.com/wallpaper/536/996/HD-wallpaper-magic-keyboard-beside-mug-and-click-pen-thumbnail.jpg);
+			background-repeat: no-repeat;
+			background-size: cover;
+			height: 100%;
+			width: 100%;
+			color: black;
+			padding-top: 5%;
+			padding-bottom: 20%;
+
+		}
+		#skills{
+			background-image: url(https://images.pexels.com/photos/1242348/pexels-photo-1242348.jpeg?auto=compress&cs=tinysrgb&w=600);
+			background-repeat: no-repeat;
+			background-size: cover;
+			height: 100%;
+			width: 100%;
+			
+			padding-top: 5%;
+			padding-bottom: 20%;
+		}
+		#certifications{
+			background-image: url(https://images.pexels.com/photos/82256/pexels-photo-82256.jpeg?auto=compress&cs=tinysrgb&w=600);
+			background-repeat: no-repeat;
+			background-size: cover;
+			height: 100%;
+			width: 100%;
+			
+			padding-top: 5%;
+			padding-bottom: 20%;
+		}
+		#contact{
+			
+			padding-bottom: 10%;
+		}
+		.fa {  
+  padding: 20px;  
+text-align: center;  
+  margin: 5px 2px;  
+  font-size: 30px;  
+  width: 50px;  
+}  
+.fa-linkedin {  
+  background: #007bb5;  
+  color: white;  
+}
+a:hover{
+	color: orange;
+}
